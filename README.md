@@ -12,6 +12,8 @@ The purpose of this exercise is to see differences between version in different 
 
 ## How to contribute?
 
+Please fork this repository.
+
 ## Deployment
 
 ### Copyright

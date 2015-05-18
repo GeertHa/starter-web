@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Geert Hofman - geert.hofman@howest.be
 
 # THANKS
 
